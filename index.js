@@ -10,7 +10,7 @@ var email = new sendgrid.Email()
 var file = 'mailIds.json'
 var skipIdsFile = jsonfile.readFileSync(file)
 
-function checkMails(callback) {
+function checkMails (callback) {
   s.on('data', function (d) {
     if (d.id) {
       skipIds(d.id, function (skip) {
