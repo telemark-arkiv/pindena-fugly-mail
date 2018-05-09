@@ -21,7 +21,7 @@
     "setup": "npm install && node setup.js"
   },
   "dependencies": {
-    "node-gmail-api": "^0.5.0",
+    "node-gmail-api": "^0.6.0",
     "sendgrid": "^2.0.0",
     "jsonfile": "^4.0.0"
   },
