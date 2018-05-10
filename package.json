@@ -26,7 +26,7 @@
     "jsonfile": "4.0.0"
   },
   "devDependencies": {
-    "log4js": "0.6.38",
+    "log4js": "2.5.3",
     "standard": "5.4.1",
     "tap": "1.4.1"
   }
