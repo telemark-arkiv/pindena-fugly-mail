@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "node-gmail-api": "0.6.1",
-    "sendgrid": "2.0.0",
+    "sendgrid": "5.2.3",
     "jsonfile": "4.0.0"
   },
   "devDependencies": {
